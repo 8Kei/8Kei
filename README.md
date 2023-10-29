@@ -1,7 +1,7 @@
 I’m Kei(8Kei).
-  I am a student of technical college.My major is electrical engineering.
-  I am competing in Robocon, and I am in charge of electrical circuits and programs in my team.
-  My main using microcontrollers are stm32 and esp32.
+  I am a student of technical college.My major is electrical engineering.  
+  I am competing in Robocon, and I am in charge of electrical circuits and programs in my team.  
+  My main using microcontrollers are stm32 and esp32.  
 - 👀 I’m interested in Robots.
 - 🌱 I’m currently learning RTOS.
 
